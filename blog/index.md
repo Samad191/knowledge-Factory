@@ -1,3 +1,3 @@
-id: Anas Bin Sohail
+id: Jaffer Abbas
 bio: A software Engineer working on mern technology
-linkedin: https://www.linkedin.com/in/anas-bin-sohail-3a6168168/
+linkedin: http://www.linkedin.com/in/syed-muhammad-jaffer-abbas-3a4ba719b
